@@ -1,0 +1,16 @@
+.nav-link {
+    font-family: 'Arial', sans-serif; /* Change to your preferred font */
+    font-size: 16px; /* Adjust font size */
+    font-weight: bold; /* Make text bold */
+    text-transform: uppercase; /* Uppercase text */
+    color: #007bff; /* Blue color */
+    padding: 10px 20px; /* Adjust padding for more space around text */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition for hover effects */
+}
+
+/* Hover effect */
+.nav-link:hover {
+    background-color: #007bff; /* Blue background on hover */
+    color: white; /* White text color on hover */
+}
